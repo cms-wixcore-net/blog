@@ -19,7 +19,7 @@ class Plugin extends PluginBase
             'description'   => 'wixcore.blog::lang.plugin.description',
             'author'        => 'Mykola Dovhopol',
             'icon'          => 'icon-pencil',
-            'homepage'      => 'https://github.com/wixcore/october-blog'
+            'homepage'      => 'https://github.com/cms-wixcore-net/blog'
         ];
     }
     public function registerComponents()
