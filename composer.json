@@ -2,7 +2,7 @@
     "name": "wixcore/blog-plugin",
     "type": "october-plugin",
     "description": "Простая расширяемая платформа для ведения блогов для October CMS.",
-    "homepage": "https://github.com/wixcore/october-blog",
+    "homepage": "https://github.com/cms-wixcore-net/blog",
     "keywords": ["october", "octobercms", "blog"],
     "license": "MIT",
     "authors": [
